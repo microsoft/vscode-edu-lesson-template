@@ -4,9 +4,7 @@ title: Course 1
 level: beginner
 cardImageUrl: https://vscodeedu.com/assets/course-cards/card6.png
 contacts:
-  - displayName: Contact
-    affiliation: None
+  - displayName: ""
     email: None
-    homePageUrl: None
 units:
   - unit1/index.yml
