@@ -3,8 +3,5 @@ id: course1
 title: Course 1
 level: beginner
 cardImageUrl: https://vscodeedu.com/assets/course-cards/card6.png
-contacts:
-  - displayName: ""
-    email: None
 units:
   - unit1/index.yml
