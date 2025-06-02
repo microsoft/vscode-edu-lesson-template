@@ -1,7 +1,12 @@
 # yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
 id: course1
-title: REPLACE - LESSON TITLE (ACTUALLY COURSE)
+title: Course 1
 level: beginner
 cardImageUrl: https://vscodeedu.com/assets/course-cards/card6.png
+contacts:
+  - displayName: Contact
+    affiliation: None
+    email: None
+    homePageUrl: None
 units:
   - unit1/index.yml
